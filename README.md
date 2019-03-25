@@ -16,3 +16,9 @@ I tried to express it as a figure.
 
 The second is K-NN classifier.
 
+
+--> ( + n_neighbors_graph.py ) 
+
+Depending on the values of the test accuracy and the training accuracy, the over-fit, 
+
+the optimal point, and the under-fit are graphically displayed.
