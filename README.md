@@ -22,3 +22,22 @@ The second is K-NN classifier.
 Depending on the values of the test accuracy and the training accuracy, the over-fit, 
 
 the optimal point, and the under-fit are graphically displayed.
+
+
+2019 - 03 -29 
+
+--> ( + Dataset_wave.py )
+--> ( + Dataset_forge.py ) 
+--> ( + Dataset_cancer.py ) 
+--> ( + Dataset_Bostonc.py ) 
+--> ( + Dataset_Extended_boston.py ) 
+--> ( + GeneralizationVsComplexity_RelationshipsWithCancerDataset.py ) 
+--> ( + k-nearest-neighbors-return.py ) 
+
+
+
+ve tried a variety of datasets and a quick look at what they are.
+
+Use CancerDataset to find the relationship between generalization and complexity.
+
+k-Nearest Neighbor classification
