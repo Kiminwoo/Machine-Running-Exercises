@@ -47,3 +47,17 @@ i've tried a variety of datasets and a quick look at what they are.
 Use CancerDataset to find the relationship between generalization and complexity.
 
 k-Nearest Neighbor classification
+
+2019 - 04 - 08 
+
+--> ( + Ridge.py ) 
+
+--> ( + Lasso.py ) 
+
+--> ( + Square root with Bostondataset.py )
+
+--> ( + Square root with wavedataset.py )
+
+I studied Ridge Regression and Lassie Recursion in Boston as an extension.
+
+I studied the least square root with Boston data and Wave data.
