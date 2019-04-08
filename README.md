@@ -61,3 +61,9 @@ k-Nearest Neighbor classification
 I studied Ridge Regression and Lassie Recursion in Boston as an extension.
 
 I studied the least square root with Boston data and Wave data.
+
+2019 - 04 -09 
+
+--> ( + Weight.py ) 
+
+i studied of What is a weight?
