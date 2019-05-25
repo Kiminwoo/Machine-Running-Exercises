@@ -17,7 +17,7 @@ I tried to express it as a figure.
 The second is K-NN classifier.
 </blockquote>
 <hr>
---> ( + n_neighbors_graph.py ) 
+- ( + n_neighbors_graph.py ) 
 <blockquote>
 Depending on the values of the test accuracy and the training accuracy, the over-fit, 
 
@@ -26,19 +26,19 @@ the optimal point, and the under-fit are graphically displayed.
 
 <h1>2019 - 03 -29</h1>
 
---> ( + Dataset_wave.py )
+- ( + Dataset_wave.py )
 
---> ( + Dataset_forge.py ) 
+- ( + Dataset_forge.py ) 
 
---> ( + Dataset_cancer.py ) 
+- ( + Dataset_cancer.py ) 
 
---> ( + Dataset_Bostonc.py ) 
+- ( + Dataset_Bostonc.py ) 
 
---> ( + Dataset_Extended_boston.py ) 
+- ( + Dataset_Extended_boston.py ) 
 
---> ( + GeneralizationVsComplexity_RelationshipsWithCancerDataset.py ) 
+- ( + GeneralizationVsComplexity_RelationshipsWithCancerDataset.py ) 
 
---> ( + k-nearest-neighbors-return.py ) 
+- ( + k-nearest-neighbors-return.py ) 
 
 
 <blockquote>
@@ -50,13 +50,13 @@ k-Nearest Neighbor classification
 </blockquote>
 <h1>2019 - 04 - 08</h1>
 
---> ( + Ridge.py ) 
+- ( + Ridge.py ) 
 
---> ( + Lasso.py ) 
+- ( + Lasso.py ) 
 
---> ( + Square root with Bostondataset.py )
+- ( + Square root with Bostondataset.py )
 
---> ( + Square root with wavedataset.py )
+- ( + Square root with wavedataset.py )
 
 <blockquote>
 I studied Ridge Regression and Lassie Recursion in Boston as an extension.
@@ -65,7 +65,7 @@ I studied the least square root with Boston data and Wave data.
 </blockquote>
 <h1>2019 - 04 -09</h1>
 
---> ( + Weight.py ) 
+- ( + Weight.py ) 
 <blockquote>
 i studied of What is a weight?
 </blockquote>
