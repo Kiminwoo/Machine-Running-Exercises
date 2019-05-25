@@ -1,12 +1,12 @@
 # Machine-Running-Exercises
 
-<h5>2019-03-23</h5>
+<h1>2019-03-23</h1>
 
 --> ( + machine_1.py ) 
 <blockquote>
 Output to scatter plot using iris_dataset
 </blockquote>
-<h5>2019-03-26</h5>
+<h1>2019-03-26</h1>
 
 --> ( + K-NN.py ) 
 <blockquote>
@@ -24,7 +24,7 @@ Depending on the values of the test accuracy and the training accuracy, the over
 the optimal point, and the under-fit are graphically displayed.
 </blockquote>
 
-<h5>2019 - 03 -29</h5>
+<h1>2019 - 03 -29</h1>
 
 --> ( + Dataset_wave.py )
 
@@ -48,7 +48,7 @@ Use CancerDataset to find the relationship between generalization and complexity
 
 k-Nearest Neighbor classification
 </blockquote>
-<h5>2019 - 04 - 08</h5>
+<h1>2019 - 04 - 08</h1>
 
 --> ( + Ridge.py ) 
 
@@ -63,7 +63,7 @@ I studied Ridge Regression and Lassie Recursion in Boston as an extension.
 
 I studied the least square root with Boston data and Wave data.
 </blockquote>
-<h5>2019 - 04 -09</h5>
+<h1>2019 - 04 -09</h1>
 
 --> ( + Weight.py ) 
 <blockquote>
