@@ -2,13 +2,13 @@
 
 <h1>2019-03-23</h1>
 
---> ( + machine_1.py ) 
+- ( + machine_1.py ) 
 <blockquote>
 Output to scatter plot using iris_dataset
 </blockquote>
 <h1>2019-03-26</h1>
 
---> ( + K-NN.py ) 
+- ( + K-NN.py ) 
 <blockquote>
 First, the K-nearest neighbors classification, plt when n_neighbors = 1 and n_neighbors = 3.
 
